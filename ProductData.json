@@ -1,7 +1,5 @@
 [
   {
-    "Id": "1",
-    "BrandId": 1,
     "ProductName": "DeWalt 20V Cordless Drill",
     "GraphicName": "DCD771C2",
     "CostPrice": 79.99,
@@ -11,8 +9,6 @@
     "Description": "The DeWalt 20V cordless drill is a lightweight and powerful tool designed for heavy-duty applications."
   },
   {
-    "Id": "2",
-    "BrandId": 1,
     "ProductName": "DeWalt 20V Cordless Impact Driver",
     "GraphicName": "DCF885C1",
     "CostPrice": 89.99,
@@ -22,8 +18,6 @@
     "Description": "A high-torque impact driver that delivers fast, precise results for driving screws and fasteners."
   },
   {
-    "Id": "3",
-    "BrandId": 1,
     "ProductName": "DeWalt 12-inch Cordless Miter Saw",
     "GraphicName": "DCS361M1",
     "CostPrice": 299.99,
@@ -33,8 +27,6 @@
     "Description": "A high-performance miter saw perfect for cutting wood, plastics, and other materials with precision."
   },
   {
-    "Id": "4",
-    "BrandId": 1,
     "ProductName": "DeWalt 4-1/2-inch Angle Grinder",
     "GraphicName": "DWE402",
     "CostPrice": 59.99,
@@ -44,8 +36,6 @@
     "Description": "Compact, lightweight angle grinder for cutting, grinding, and polishing tasks."
   },
   {
-    "Id": "5",
-    "BrandId": 1,
     "ProductName": "DeWalt 20V Cordless Circular Saw",
     "GraphicName": "DCS391B",
     "CostPrice": 129.99,
@@ -55,8 +45,6 @@
     "Description": "A durable circular saw with a powerful motor designed for efficient cutting in various materials."
   },
   {
-    "Id": "6",
-    "BrandId": 2,
     "ProductName": "Milwaukee M18 Fuel Cordless Drill",
     "GraphicName": "2706-20",
     "CostPrice": 149.99,
@@ -66,8 +54,6 @@
     "Description": "The M18 Fuel drill delivers unmatched power and performance with a brushless motor."
   },
   {
-    "Id": "7",
-    "BrandId": 2,
     "ProductName": "Milwaukee M18 Cordless Impact Driver",
     "GraphicName": "2753-20",
     "CostPrice": 129.99,
@@ -77,8 +63,6 @@
     "Description": "Impact driver that combines speed and torque for efficient driving and fastening."
   },
   {
-    "Id": "8",
-    "BrandId": 2,
     "ProductName": "Milwaukee M18 Cordless Sawzall Reciprocating Saw",
     "GraphicName": "2720-20",
     "CostPrice": 199.99,
@@ -88,8 +72,6 @@
     "Description": "The M18 Sawzall is a powerful reciprocating saw for cutting through wood, metal, and other tough materials."
   },
   {
-    "Id": "9",
-    "BrandId": 2,
     "ProductName": "Milwaukee M18 Fuel 7-1/4-inch Circular Saw",
     "GraphicName": "2732-20",
     "CostPrice": 249.99,
@@ -99,8 +81,6 @@
     "Description": "A versatile circular saw offering superior cutting performance and durability."
   },
   {
-    "Id": "10",
-    "BrandId": 2,
     "ProductName": "Milwaukee M18 Cordless Angle Grinder",
     "GraphicName": "2680-20",
     "CostPrice": 119.99,
@@ -110,8 +90,6 @@
     "Description": "Compact, yet powerful angle grinder for precision cutting, grinding, and polishing."
   },
   {
-    "Id": "11",
-    "BrandId": 3,
     "ProductName": "Ridgid 18V Cordless Drill",
     "GraphicName": "R86008",
     "CostPrice": 99.99,
@@ -121,8 +99,6 @@
     "Description": "Cordless drill with a brushless motor and powerful torque for all your drilling and driving needs."
   },
   {
-    "Id": "12",
-    "BrandId": 3,
     "ProductName": "Ridgid 18V Cordless Impact Driver",
     "GraphicName": "R86035",
     "CostPrice": 109.99,
@@ -132,8 +108,6 @@
     "Description": "A powerful impact driver for driving fasteners into tough materials."
   },
   {
-    "Id": "13",
-    "BrandId": 3,
     "ProductName": "Ridgid 12-inch Miter Saw",
     "GraphicName": "R4112",
     "CostPrice": 179.99,
@@ -143,8 +117,6 @@
     "Description": "A heavy-duty 12-inch miter saw with laser precision and a powerful motor."
   },
   {
-    "Id": "14",
-    "BrandId": 3,
     "ProductName": "Ridgid 4-1/2-inch Angle Grinder",
     "GraphicName": "R1003",
     "CostPrice": 49.99,
@@ -154,8 +126,6 @@
     "Description": "Compact angle grinder for cutting, grinding, and finishing tasks."
   },
   {
-    "Id": "15",
-    "BrandId": 3,
     "ProductName": "Ridgid 18V Cordless Circular Saw",
     "GraphicName": "R8653",
     "CostPrice": 139.99,
