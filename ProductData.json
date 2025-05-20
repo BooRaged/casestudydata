@@ -69,7 +69,7 @@
     "QtyOnBackOrder": 6,
     "Description": "The M18 Fuel drill delivers unmatched power and performance with a brushless motor.",
     "Brand": "Milwaukee",
-    "BrandId": 2
+    
   },
   {
     "Id": "7",
@@ -81,7 +81,7 @@
     "QtyOnBackOrder": 4,
     "Description": "Impact driver that combines speed and torque for efficient driving and fastening.",
     "Brand": "Milwaukee",
-    "BrandId": 2
+    
   },
   {
     "Id": "8",
@@ -93,7 +93,7 @@
     "QtyOnBackOrder": 3,
     "Description": "The M18 Sawzall is a powerful reciprocating saw for cutting through wood, metal, and other tough materials.",
     "Brand": "Milwaukee",
-    "BrandId": 2
+    
   },
   {
     "Id": "9",
@@ -105,7 +105,7 @@
     "QtyOnBackOrder": 5,
     "Description": "A versatile circular saw offering superior cutting performance and durability.",
     "Brand": "Milwaukee",
-    "BrandId": 2
+    
   },
   {
     "Id": "10",
@@ -117,7 +117,7 @@
     "QtyOnBackOrder": 2,
     "Description": "Compact, yet powerful angle grinder for precision cutting, grinding, and polishing.",
     "Brand": "Milwaukee",
-    "BrandId": 2
+    
   },
   {
     "Id": "11",
@@ -129,7 +129,7 @@
     "QtyOnBackOrder": 7,
     "Description": "Cordless drill with a brushless motor and powerful torque for all your drilling and driving needs.",
     "Brand": "Ridgid",
-    "BrandId": 3
+    
   },
   {
     "Id": "12",
@@ -141,7 +141,7 @@
     "QtyOnBackOrder": 10,
     "Description": "A powerful impact driver for driving fasteners into tough materials.",
     "Brand": "Ridgid",
-    "BrandId": 3
+    
   },
   {
     "Id": "13",
@@ -153,7 +153,7 @@
     "QtyOnBackOrder": 3,
     "Description": "A heavy-duty 12-inch miter saw with laser precision and a powerful motor.",
     "Brand": "Ridgid",
-    "BrandId": 3
+    
   },
   {
     "Id": "14",
@@ -165,7 +165,7 @@
     "QtyOnBackOrder": 5,
     "Description": "Compact angle grinder for cutting, grinding, and finishing tasks.",
     "Brand": "Ridgid",
-    "BrandId": 3
+    
   },
   {
     "Id": "15",
@@ -177,6 +177,6 @@
     "QtyOnBackOrder": 8,
     "Description": "A powerful cordless circular saw designed for heavy-duty cutting applications.",
     "Brand": "Ridgid",
-    "BrandId": 3
+    
   }
 ]
