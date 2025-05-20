@@ -1,5 +1,6 @@
 [
   {
+    "Id": "1",
     "ProductName": "DeWalt 20V Cordless Drill",
     "GraphicName": "DCD771C2",
     "CostPrice": 79.99,
@@ -10,6 +11,7 @@
     "Brand": "DeWalt"
   },
   {
+    "Id": "2",
     "ProductName": "DeWalt 20V Cordless Impact Driver",
     "GraphicName": "DCF885C1",
     "CostPrice": 89.99,
@@ -20,6 +22,7 @@
     "Brand": "DeWalt"
   },
   {
+    "Id": "3",
     "ProductName": "DeWalt 12-inch Cordless Miter Saw",
     "GraphicName": "DCS361M1",
     "CostPrice": 299.99,
@@ -30,6 +33,7 @@
     "Brand": "DeWalt"
   },
   {
+    "Id": "4",
     "ProductName": "DeWalt 4-1/2-inch Angle Grinder",
     "GraphicName": "DWE402",
     "CostPrice": 59.99,
@@ -40,6 +44,7 @@
     "Brand": "DeWalt"
   },
   {
+    "Id": "5",
     "ProductName": "DeWalt 20V Cordless Circular Saw",
     "GraphicName": "DCS391B",
     "CostPrice": 129.99,
@@ -50,6 +55,7 @@
     "Brand": "DeWalt"
   },
   {
+    "Id": "6",
     "ProductName": "Milwaukee M18 Fuel Cordless Drill",
     "GraphicName": "2706-20",
     "CostPrice": 149.99,
@@ -60,6 +66,7 @@
     "Brand": "Milwaukee"
   },
   {
+    "Id": "7",
     "ProductName": "Milwaukee M18 Cordless Impact Driver",
     "GraphicName": "2753-20",
     "CostPrice": 129.99,
@@ -70,6 +77,7 @@
     "Brand": "Milwaukee"
   },
   {
+    "Id": "8",
     "ProductName": "Milwaukee M18 Cordless Sawzall Reciprocating Saw",
     "GraphicName": "2720-20",
     "CostPrice": 199.99,
@@ -80,6 +88,7 @@
     "Brand": "Milwaukee"
   },
   {
+    "Id": "9",
     "ProductName": "Milwaukee M18 Fuel 7-1/4-inch Circular Saw",
     "GraphicName": "2732-20",
     "CostPrice": 249.99,
@@ -90,6 +99,7 @@
     "Brand": "Milwaukee"
   },
   {
+    "Id": "10",
     "ProductName": "Milwaukee M18 Cordless Angle Grinder",
     "GraphicName": "2680-20",
     "CostPrice": 119.99,
@@ -100,6 +110,7 @@
     "Brand": "Milwaukee"
   },
   {
+    "Id": "11",
     "ProductName": "Ridgid 18V Cordless Drill",
     "GraphicName": "R86008",
     "CostPrice": 99.99,
@@ -110,6 +121,7 @@
     "Brand": "Ridgid"
   },
   {
+    "Id": "12",
     "ProductName": "Ridgid 18V Cordless Impact Driver",
     "GraphicName": "R86035",
     "CostPrice": 109.99,
@@ -120,6 +132,7 @@
     "Brand": "Ridgid"
   },
   {
+    "Id": "13",
     "ProductName": "Ridgid 12-inch Miter Saw",
     "GraphicName": "R4112",
     "CostPrice": 179.99,
@@ -130,6 +143,7 @@
     "Brand": "Ridgid"
   },
   {
+    "Id": "14",
     "ProductName": "Ridgid 4-1/2-inch Angle Grinder",
     "GraphicName": "R1003",
     "CostPrice": 49.99,
@@ -140,6 +154,7 @@
     "Brand": "Ridgid"
   },
   {
+    "Id": "15",
     "ProductName": "Ridgid 18V Cordless Circular Saw",
     "GraphicName": "R8653",
     "CostPrice": 139.99,
