@@ -9,7 +9,7 @@
     "QtyOnBackOrder": 5,
     "Description": "The DeWalt 20V cordless drill is a lightweight and powerful tool designed for heavy-duty applications.",
     "Brand": "DeWalt",
-    "BrandId": 1
+    
   },
   {
     "Id": "2",
@@ -21,7 +21,7 @@
     "QtyOnBackOrder": 10,
     "Description": "A high-torque impact driver that delivers fast, precise results for driving screws and fasteners.",
     "Brand": "DeWalt",
-    "BrandId": 1
+    
   },
   {
     "Id": "3",
@@ -33,7 +33,7 @@
     "QtyOnBackOrder": 2,
     "Description": "A high-performance miter saw perfect for cutting wood, plastics, and other materials with precision.",
     "Brand": "DeWalt",
-    "BrandId": 1
+    
   },
   {
     "Id": "4",
@@ -45,7 +45,7 @@
     "QtyOnBackOrder": 8,
     "Description": "Compact, lightweight angle grinder for cutting, grinding, and polishing tasks.",
     "Brand": "DeWalt",
-    "BrandId": 1
+    
   },
   {
     "Id": "5",
@@ -57,7 +57,7 @@
     "QtyOnBackOrder": 7,
     "Description": "A durable circular saw with a powerful motor designed for efficient cutting in various materials.",
     "Brand": "DeWalt",
-    "BrandId": 1
+    
   },
   {
     "Id": "6",
