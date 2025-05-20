@@ -8,7 +8,8 @@
     "QtyOnHand": 50,
     "QtyOnBackOrder": 5,
     "Description": "The DeWalt 20V cordless drill is a lightweight and powerful tool designed for heavy-duty applications.",
-    "Brand": "DeWalt"
+    "Brand": "DeWalt",
+    "BrandId": 1
   },
   {
     "Id": "2",
@@ -19,7 +20,8 @@
     "QtyOnHand": 45,
     "QtyOnBackOrder": 10,
     "Description": "A high-torque impact driver that delivers fast, precise results for driving screws and fasteners.",
-    "Brand": "DeWalt"
+    "Brand": "DeWalt",
+    "BrandId": 1
   },
   {
     "Id": "3",
@@ -30,7 +32,8 @@
     "QtyOnHand": 20,
     "QtyOnBackOrder": 2,
     "Description": "A high-performance miter saw perfect for cutting wood, plastics, and other materials with precision.",
-    "Brand": "DeWalt"
+    "Brand": "DeWalt",
+    "BrandId": 1
   },
   {
     "Id": "4",
@@ -41,7 +44,8 @@
     "QtyOnHand": 30,
     "QtyOnBackOrder": 8,
     "Description": "Compact, lightweight angle grinder for cutting, grinding, and polishing tasks.",
-    "Brand": "DeWalt"
+    "Brand": "DeWalt",
+    "BrandId": 1
   },
   {
     "Id": "5",
@@ -52,7 +56,8 @@
     "QtyOnHand": 40,
     "QtyOnBackOrder": 7,
     "Description": "A durable circular saw with a powerful motor designed for efficient cutting in various materials.",
-    "Brand": "DeWalt"
+    "Brand": "DeWalt",
+    "BrandId": 1
   },
   {
     "Id": "6",
@@ -63,7 +68,8 @@
     "QtyOnHand": 60,
     "QtyOnBackOrder": 6,
     "Description": "The M18 Fuel drill delivers unmatched power and performance with a brushless motor.",
-    "Brand": "Milwaukee"
+    "Brand": "Milwaukee",
+    "BrandId": 2
   },
   {
     "Id": "7",
@@ -74,7 +80,8 @@
     "QtyOnHand": 55,
     "QtyOnBackOrder": 4,
     "Description": "Impact driver that combines speed and torque for efficient driving and fastening.",
-    "Brand": "Milwaukee"
+    "Brand": "Milwaukee",
+    "BrandId": 2
   },
   {
     "Id": "8",
@@ -85,7 +92,8 @@
     "QtyOnHand": 25,
     "QtyOnBackOrder": 3,
     "Description": "The M18 Sawzall is a powerful reciprocating saw for cutting through wood, metal, and other tough materials.",
-    "Brand": "Milwaukee"
+    "Brand": "Milwaukee",
+    "BrandId": 2
   },
   {
     "Id": "9",
@@ -96,7 +104,8 @@
     "QtyOnHand": 35,
     "QtyOnBackOrder": 5,
     "Description": "A versatile circular saw offering superior cutting performance and durability.",
-    "Brand": "Milwaukee"
+    "Brand": "Milwaukee",
+    "BrandId": 2
   },
   {
     "Id": "10",
@@ -107,7 +116,8 @@
     "QtyOnHand": 40,
     "QtyOnBackOrder": 2,
     "Description": "Compact, yet powerful angle grinder for precision cutting, grinding, and polishing.",
-    "Brand": "Milwaukee"
+    "Brand": "Milwaukee",
+    "BrandId": 2
   },
   {
     "Id": "11",
@@ -118,7 +128,8 @@
     "QtyOnHand": 50,
     "QtyOnBackOrder": 7,
     "Description": "Cordless drill with a brushless motor and powerful torque for all your drilling and driving needs.",
-    "Brand": "Ridgid"
+    "Brand": "Ridgid",
+    "BrandId": 3
   },
   {
     "Id": "12",
@@ -129,7 +140,8 @@
     "QtyOnHand": 45,
     "QtyOnBackOrder": 10,
     "Description": "A powerful impact driver for driving fasteners into tough materials.",
-    "Brand": "Ridgid"
+    "Brand": "Ridgid",
+    "BrandId": 3
   },
   {
     "Id": "13",
@@ -140,7 +152,8 @@
     "QtyOnHand": 15,
     "QtyOnBackOrder": 3,
     "Description": "A heavy-duty 12-inch miter saw with laser precision and a powerful motor.",
-    "Brand": "Ridgid"
+    "Brand": "Ridgid",
+    "BrandId": 3
   },
   {
     "Id": "14",
@@ -151,7 +164,8 @@
     "QtyOnHand": 30,
     "QtyOnBackOrder": 5,
     "Description": "Compact angle grinder for cutting, grinding, and finishing tasks.",
-    "Brand": "Ridgid"
+    "Brand": "Ridgid",
+    "BrandId": 3
   },
   {
     "Id": "15",
@@ -162,6 +176,7 @@
     "QtyOnHand": 50,
     "QtyOnBackOrder": 8,
     "Description": "A powerful cordless circular saw designed for heavy-duty cutting applications.",
-    "Brand": "Ridgid"
+    "Brand": "Ridgid",
+    "BrandId": 3
   }
 ]
